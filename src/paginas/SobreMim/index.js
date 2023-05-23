@@ -32,7 +32,7 @@ export default function SobreMim() {
                 Em novembro de 2022 tive a oportunidade de me tornar aluno do programa Oracle Next Education, o que aproximou muito mais da programação, uma verdadeira fonte de aprendizado com professores incríveis.
             </p>
             <p className={styles.paragrafo}>
-                Agradeço a Deus por tudo que tem proporcionado a mim, agradeço a minha família pelo apoio e, claro, meus sinceros agradecimentos a Oracle e Alura pela oportunidade de estudar no ONE.
+                Agradeço a Deus por tudo que tem me proporcionado, agradeço a minha família pelo apoio e, claro, meus sinceros agradecimentos a Oracle e Alura pela oportunidade de estudar no ONE.
             </p>
         </PostModelo>
     )
